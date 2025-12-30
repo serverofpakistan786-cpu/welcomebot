@@ -2,7 +2,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, ContextTypes, MessageHandler, filters
 
 BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-OWNER_USERNAME = "PMOZIX"   # WITHOUT @
+OWNER_USERNAME = "PMOZIX68"   # WITHOUT @
 
 WELCOME_TEXT = """
 ━━━━━━━━━━━━━━━━━━━━━━
